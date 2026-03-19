@@ -1,37 +1,43 @@
-# 🎓 Student Placement Analysis Dashboard  
+# Student-Placement-PowerBI-Dashboard
 
-## 📌 Project Overview  
+## Project Overview
 
-The Student Placement Analysis Dashboard is a data analytics project that analyzes student placement data using academic performance and skill-based factors.
+The Student Placement Analysis Dashboard is a data analytics project developed using Power BI to analyze student placement outcomes based on academic performance and skill-based factors.
 
-This dashboard helps in understanding the key elements that influence student placements such as CGPA, internship experience, communication skills, cognitive level, and academic strength.
+The dashboard provides insights into how various attributes such as CGPA, internship experience, communication skills, cognitive level, and academic strength influence placement results. It is designed to support data-driven decision-making for academic institutions and students.
 
-## 📊 Dashboard Features  
+---
 
-- 📈 Placement Distribution (Placed vs Not Placed)  
-- 🎓 CGPA-wise Placement Analysis  
-- 🗣 Communication Skill Level Distribution  
-- 💼 Impact of Internship Experience  
-- 🧠 Cognitive Level Influence  
-- 📚 Academic Strength Visualization  
-- 📊 Average CGPA Comparison (Placed vs Not Placed)  
+## Dashboard Features
 
-## 📂 Dataset Information  
+* Placement distribution analysis (Placed vs Not Placed)
+* CGPA-wise placement trends
+* Communication skill level distribution
+* Analysis of internship experience impact
+* Cognitive level influence on placements
+* Academic strength visualization
+* Comparison of average CGPA (Placed vs Not Placed)
 
-- Total Records: 10,000 Students  
+---
 
-### Attributes Included:
+## Dataset Information
 
-- CGPA  
-- Placement Status  
-- Internship Experience  
-- Communication Skill Level  
-- Academic Strength  
-- Cognitive Level  
+* Total Records: 10,000 students
 
-## 📌 Key Insights  
+### Attributes Included
 
-- Higher CGPA increases placement probability.  
-- Internship experience improves hiring chances.  
-- Strong communication skills positively impact placements.  
-- Academic strength plays a crucial role in recruitment decisions.  
+* CGPA
+* Placement Status
+* Internship Experience
+* Communication Skill Level
+* Academic Strength
+* Cognitive Level
+
+---
+
+## Key Insights
+
+* Students with higher CGPA have a greater likelihood of being placed
+* Internship experience significantly improves placement chances
+* Strong communication skills positively influence hiring outcomes
+* Academic strength plays an important role in recruitment decisions
